@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137749061151",
+    "project_id": "elwarsh-app",
+    "storage_bucket": "elwarsh-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137749061151:android:56ecfd6dd1936b9cbdff2a",
+        "android_client_info": {
+          "package_name": "com.example.elwarsha_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137749061151-nps5oj9qqn4165ujcaleddic8lc0p94j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmdG3vgKIs5tmJLg2LRkqXPqe7Ex4W5xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137749061151-nps5oj9qqn4165ujcaleddic8lc0p94j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
